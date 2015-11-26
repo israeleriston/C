@@ -1,2 +1,4 @@
-# Calculadora com Muitos Dígitos em Linguagem C
+# Calculadora em Linguagem C
+Calculadora com muitos digítos
+
 
